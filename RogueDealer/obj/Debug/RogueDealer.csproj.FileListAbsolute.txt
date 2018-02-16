@@ -1,0 +1,12 @@
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\RogueDealer.exe.config
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\RogueDealer.exe
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\RogueDealer.pdb
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\RogueSharp.dll
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\RogueSharp.xml
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\obj\Debug\RogueDealer.exe
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\obj\Debug\RogueDealer.pdb
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\Terminal8x8.png
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\OpenTK.dll
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\RLNET.dll
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\bin\Debug\OpenTK.xml
+C:\Users\bc1729\Desktop\Personal\VCS\RogueDealer\RogueDealer\obj\Debug\RogueDealer.csprojResolveAssemblyReference.cache
